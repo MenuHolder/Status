@@ -1,5 +1,6 @@
-THANK YOU FOR USING <color=black>ELIXIR CLIENT</color>
-CREATOR : <color=red>BURGR</color> <color=blue>BURGR</color>
+--------------------------------------------
+THANK YOU FOR USING <color=blue>ELIXIR CLIENT</color>
+CREATOR : <color=black>BURGR</color> 
 NEWS :
 +ADDED <color=red>CUSTOM BOARDS</color>
 +<color=red>EXPECT CRASH MODS SOON...</color>
