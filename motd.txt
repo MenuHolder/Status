@@ -1,1 +1,5 @@
-Thank you for using Elixir Client! \n Creator <color=red>Burgr</color> \n Have fun modding!
+Thank you for using Elixir Client!
+Creator : <color=red>Burgr</color>
+News :
++Added <color=magenta>Custom Boards</color>
+
