@@ -1,4 +1,4 @@
-THANK YOU FOR USING <color=cyan>ELIXIR CLIENT</color>
+THANK YOU FOR USING <color=black>ELIXIR CLIENT</color>
 CREATOR : <color=red>BURGR</color>
 NEWS :
 +ADDED <color=red>CUSTOM BOARDS</color>
